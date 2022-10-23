@@ -15,6 +15,8 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 
 ## 🌱 Technical stack experienced 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
+
 <br>
 <p align="left">
 <a href="#">
@@ -25,8 +27,6 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 <img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 </p>
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
 
 ## 📫 How to reach me
