@@ -1,13 +1,13 @@
 # 👋 HI, THERE!
 
-I`m a student studying to fulfill my dream, **data analyst**.
+I`m a student studying to fulfill my dream, **DATA ANALYST**.
 
 **I’m interested in,**
-- analyzing your preference from your choices
+- Analyzing your preference from your choices
 - Recommending a lifesytle that suits your personal preference
 
 **I’m currently learning,**
-- Exploratory data analysis
+- Exploratory Data Analysis
 - Machine Learning
 - Crawling
 
