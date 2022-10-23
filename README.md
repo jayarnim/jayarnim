@@ -30,6 +30,19 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 </p>
 </br>
 
+<br>
+<p align="left">
+<a href="#">
+<img src="https://img.shields.io/badge/numpy-150458?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/scikitlearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/tensorflow-150458?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
+</p>
+</br>
+
 
 ## 📫 HOW TO REACH ME
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com)](mailto:jayarnim727@gmail.com) &nbsp;
