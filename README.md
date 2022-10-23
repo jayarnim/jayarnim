@@ -27,11 +27,8 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 <img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399"/></a> &nbsp;
 <a href="#">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp;
-</p>
 </br>
-
 <br>
-<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-150458?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
