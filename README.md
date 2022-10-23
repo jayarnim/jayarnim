@@ -57,7 +57,7 @@
 
 
 ## 📫 HOW TO REACH ME
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com)](mailto:jayarnim727@gmail.com) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com)](mailto:jayarnim727@gmail.com) &nbsp;
 
 
 <!---
