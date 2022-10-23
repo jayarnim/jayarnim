@@ -32,7 +32,7 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 
 
 ## 📫 HOW TO REACH ME
-jayarnim727@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com)](mailto:jayarnim727@gmail.com) 
 
 
 <!---
