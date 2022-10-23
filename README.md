@@ -1,20 +1,17 @@
 # HI, THERE!
-- **👋 I`m @jayarnim.**
-  - a student studying to fulfill my dream, a **data analyst**.
-  - graduated from the Department of **Economics** at Kookmin University.
-  - studied **business economics** in depth.
-    - For example, Theory of Games, Economics of Technological Innovation, etc.
 
-- **👀 I’m interested in**
-  - Reading your preference from your choices
-  - Recommending a lifesytle that suits your personal preference
+👋 I`m a student studying to fulfill my dream, a **data analyst**.
 
-- **🌱 I’m currently learning the following with Python.**
-  - Exploratory data analysis
-  - Machine Learning and Deep Learning
-  - Crawling
+👀 I’m interested in
+- analyzing your preference from your choices
+- Recommending a lifesytle that suits your personal preference
 
-- **📫 How to reach me,** jayarnim727@gmail.com
+🌱 I’m currently learning
+- Exploratory data analysis
+- Machine Learning
+- Crawling
+
+📫 How to reach me,** jayarnim727@gmail.com**
 
 
 
@@ -24,7 +21,11 @@
 <p align="left">
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
-
+<a href="#">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
+</p>
 
 
 <!---
