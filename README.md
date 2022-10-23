@@ -1,12 +1,12 @@
 ## 💡 HI, THERE!
 
-- 👋 I`m a student studying to come true my dream, **DATA ANALYST**.
+- 👋 I`m a student studying to come true my dream, Data Analyst.
 
 - 👀 i`m interested in
 
   - Analyzing personal preference from his or her choices
   
-  - Recommending a lifesytle that suits personal preference.
+  - Recommending a lifesytle that suits personal preference
   
 - 🌱 i`m currently learning
 
