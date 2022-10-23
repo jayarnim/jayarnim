@@ -2,11 +2,11 @@
 
 I`m a student studying to fulfill my dream, **DATA ANALYST**.
 
-**I’m interested in,**
+**I AM INTERESTED IN,**
 - Analyzing your preference from your choices
 - Recommending a lifesytle that suits your personal preference
 
-**I’m currently learning,**
+**i AM CURRENTLY LEARNING,**
 - Exploratory Data Analysis
 - Machine Learning
 - Crawling
