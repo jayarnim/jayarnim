@@ -27,7 +27,7 @@ I’m currently learning
 
 
 # 📫 How to reach me
-** jayarnim727@gmail.com**
+jayarnim727@gmail.com
 
 
 <!---
