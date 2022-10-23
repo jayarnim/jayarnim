@@ -6,7 +6,7 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 - Analyzing your preference from your choices
 - Recommending a lifesytle that suits your personal preference
 
-**i AM CURRENTLY LEARNING,**
+**I AM CURRENTLY LEARNING,**
 - Exploratory Data Analysis
 - Machine Learning
 - Crawling
