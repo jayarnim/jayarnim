@@ -1,12 +1,19 @@
 ## 💡 HI, THERE!
 
 - 👋 I`m a student studying to come true my dream, **DATA ANALYST**.
+
 - 👀 i`m interested in
+
   - Analyzing personal preference from his or her choices
+  
   - Recommending a lifesytle that suits personal preference.
+  
 - 🌱 i`m currently learning
+
   - Exploratory Data Analysis
+  
   - Machine Learning
+
   - Crawling
 
 
