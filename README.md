@@ -1,6 +1,12 @@
-## 💡 HI, THERE!
+## 💡 WELCOME TO MY ARCHIEVE!
 
-- 👋 I`m a student studying to come true my dream, Data Analyst.
+- 👋 Hi, there!
+
+  - I`m a student studying to come true my dream, Data Analyst.
+  
+  - I graduated from the Department of Economics and studied Business Economics in depth.
+  
+  - For example, Theory of Games, Economics of Technological Innovation, etc.
 
 - 👀 i`m interested in
 
