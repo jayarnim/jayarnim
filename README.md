@@ -1,6 +1,6 @@
 ## 💡 WELCOME TO MY ARCHIEVE!
 
-- 👋 Hi, there!
+- 👋 **Hi, there!**
 
   - I`m a student studying to come true my dream, Data Analyst.
   
@@ -8,13 +8,13 @@
   
   - For example, Theory of Games, Economics of Technological Innovation, etc.
 
-- 👀 i`m interested in
+- 👀 **i`m interested in**
 
   - Analyzing personal preference from his or her choices
   
   - Recommending a lifesytle that suits personal preference
   
-- 🌱 i`m currently learning
+- 🌱 **i`m currently learning**
 
   - Exploratory Data Analysis
   
