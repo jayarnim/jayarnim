@@ -1,4 +1,4 @@
-# 👋 HI, THERE!
+## 👋 HI, THERE!
 
 I`m a student studying to come true my dream, **DATA ANALYST**.
 
@@ -13,7 +13,7 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 
 
 
-# 🌱 Technical stack experienced 
+## 🌱 Technical stack experienced 
 
 <br>
 <p align="left">
@@ -24,9 +24,12 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 <a href="#">
 <img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 </p>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
 
-# 📫 How to reach me
+## 📫 How to reach me
 jayarnim727@gmail.com
 
 
