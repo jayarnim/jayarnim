@@ -34,6 +34,8 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 <a href="#">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=steamlit&logoColor=white"/></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/scikitlearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/tensorflow-150458?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
