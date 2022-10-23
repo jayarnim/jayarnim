@@ -1,15 +1,6 @@
 ## 👋 HI, THERE!
 
-I`m a student studying to come true my dream, **DATA ANALYST**.
-
-**I AM INTERESTED IN,**
-- Analyzing your preference from your choices
-- Recommending a lifesytle that suits your personal preference
-
-**I AM CURRENTLY LEARNING,**
-- Exploratory Data Analysis
-- Machine Learning
-- Crawling
+I`m a student studying to come true my dream, **DATA ANALYST**. I AM INTERESTED IN that; Analyzing your preference from your choices; Recommending a lifesytle that suits your personal preference. I AM CURRENTLY LEARNING that; Exploratory Data Analysis, Machine Learning, Crawling.
 
 
 
