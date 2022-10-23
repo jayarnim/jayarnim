@@ -18,7 +18,7 @@
 
 
 
-# 💡 Technical stack experienced 
+# Technical stack experienced 
 
 <br>
 <p align="left">
