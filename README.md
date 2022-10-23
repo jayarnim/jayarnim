@@ -13,7 +13,7 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 
 
 
-## 🌱 Technical stack experienced 
+## 🌱 TECHNICAL STACK EXPERIENCED
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
@@ -29,7 +29,7 @@ I`m a student studying to come true my dream, **DATA ANALYST**.
 </br>
 
 
-## 📫 How to reach me
+## 📫 HOW TO REACH ME
 jayarnim727@gmail.com
 
 
