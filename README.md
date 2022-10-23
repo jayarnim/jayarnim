@@ -1,12 +1,12 @@
-## 👋 HI, THERE!
+## 💡 HI, THERE!
 
-- 😄 I`m a student studying to come true my dream, **DATA ANALYST**.
+- 👋 I`m a student studying to come true my dream, **DATA ANALYST**.
 - 👀 i`m interested in Analyzing your preference from your choices and Recommending a lifesytle that suits your personal preference.
-- 💡 i`m currently learning Exploratory Data Analysis, Machine Learning and Crawling.
+- 🌱 i`m currently learning Exploratory Data Analysis, Machine Learning and Crawling.
 
 
 
-## 🌱 TECHNICAL STACK EXPERIENCED
+## 💡 TECHNICAL STACK EXPERIENCED
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
 
