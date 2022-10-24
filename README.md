@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=04B431&height=160&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=585858"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=04B431&height=240&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=585858"/>
 
 - 👋 **HI, THERE!**
 
@@ -21,36 +21,28 @@
   - Machine Learning & Deep Learning
 
   - Crawling
-<br>
-<br>
+<br><br>
 
 
 # 💡 PRESENT CONDITION
 
-<p align="left">
-<br>
+<br><p align="left">
 <img width="550em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> &nbsp;
-<br>
-<br>
+<br><br>
 <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<br>
-<br>
-<br>
-</p>
+</p><br><br><br>
 
 
 # 💡 TECHNICAL STACK EXPERIENCED
 
-<p align="left">
-<br>
+<br><p align="left">
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-</br>
-<br>
+<br><br>
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -65,21 +57,17 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp;
-</p>
-<br>
-<br>
+</p><br><br>
 
 
 # 📫 HOW TO REACH ME
 
-<br>
-<p align="left">
+<br><p align="left">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://linktr.ee/arnimjay727">
 <img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=https://linktr.ee/arnimjay727"/></a>
-</br>
-<br>
+<br><br>
 <a href="https://blog.naver.com/arnimjay727">
 <img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
 <a href="https://brunch.co.kr/@jayjay727">
@@ -88,7 +76,6 @@
 <img src="https://img.shields.io/badge/preference%20collection-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
 <a href="https://instagram.com/insight.note.kr">
 <img src="https://img.shields.io/badge/piece%20of%20inspiration-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
-</br>
 
 
 <!---
