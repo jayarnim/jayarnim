@@ -24,7 +24,7 @@
 <br>
 
 
-## 💡 MY GITHUB STATS
+## 💡 MY CURRENT GITHUB STATUS
 
 <p align="left">
 <br>
