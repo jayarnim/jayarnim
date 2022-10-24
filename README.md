@@ -76,7 +76,6 @@
 <img src="https://img.shields.io/badge/preference%20collection-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
 <a href="https://instagram.com/insight.note.kr">
 <img src="https://img.shields.io/badge/piece%20of%20inspiration-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
-<
 
 
 <!---
