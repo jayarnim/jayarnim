@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=04B431&height=160&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=585858"/>
 
-- 👋 **Hi, there!**
+- 👋 **HI, THERE!**
 
   - I`m a student studying to come true my dream, Data Analyst.
   
@@ -8,13 +8,13 @@
   
   - While studying my major, I became interested in consumer preferences and choices. So,
 
-- 👀 **I focus in**
+- 👀 **I FOCUS ON**
 
   - Analyzing personal preference from his or her choices
   
   - Recommending a lifesytle that suits personal preference
   
-- 🌱 **I`m currently learning**
+- 🌱 **I AM CURRENTLY LEARNING**
 
   - Exploratory Data Analysis
   
