@@ -28,9 +28,13 @@
 
 <p align="left">
 <br>
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> &nbsp;
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</br></p>
+<img width="550em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> &nbsp;
+<br>
+<br>
+<img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</br>
+<br>
+</p>
 
 
 ## 💡 TECHNICAL STACK EXPERIENCED
