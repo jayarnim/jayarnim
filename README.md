@@ -8,7 +8,7 @@
   
   - While studying my major, I became interested in consumer preferences and choices. So,
 
-- 👀 **I`m interested in**
+- 👀 **I focus in**
 
   - Analyzing personal preference from his or her choices
   
