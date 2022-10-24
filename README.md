@@ -26,20 +26,19 @@
 
 ## 💡 MY GITHUB STATS
 
-<p align="center">
+<p align="left">
 <br>
-<img width="650em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img width="600em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </br>
 
 
 ## 💡 TECHNICAL STACK EXPERIENCED
 
-<p align="center">
+<p align="left">
 <br>
-<img width="650em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </br>
 <br>
-<p align="left">
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
