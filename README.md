@@ -25,10 +25,22 @@
 </br>
 
 
-## 💡 TECHNICAL STACK EXPERIENCED
+## 💡 MY GITHUB STATS
 
 <br>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</br>
+</br>
+
+
+
+## 💡 TECHNICAL STACK EXPERIENCED
+
 <p align="left">
+<br>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</br>
+<br>
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -56,10 +68,12 @@
 </br>
 
 
-## 💡 ANOTHER ARCHIEVE
+## 📫 HOW TO REACH ME
 
 <br>
 <p align="left">
+<a href="mailto:jayarnim727@gmail.com">
+<img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://linktr.ee/arnimjay727">
 <img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=https://linktr.ee/arnimjay727"/></a> &nbsp;
 </br>
@@ -72,17 +86,6 @@
 <img src="https://img.shields.io/badge/preference%20collection-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
 <a href="https://instagram.com/insight.note.kr">
 <img src="https://img.shields.io/badge/piece%20of%20inspiration-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
-</br>
-<br>
-</br>
-
-
-## 📫 HOW TO REACH ME
-
-<br>
-<p align="left">
-<a href="mailto:jayarnim727@gmail.com">
-<img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 </br>
 
 
