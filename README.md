@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/brunch-E6E6E6?style=for-the-badge&logo=Kakao&logoColor=black&link=https://brunch.co.kr/@jayjay727"/></a> &nbsp;
 <a href="https://instagram.com/ruhig.arnim">
 <img src="https://img.shields.io/badge/preference%20collection-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
-<a href="https://instagram.com/insgiht.note.kr">
+<a href="https://instagram.com/inight.note.kr">
 <img src="https://img.shields.io/badge/piece%20of%20inspiration-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
 </br>
 <br>
