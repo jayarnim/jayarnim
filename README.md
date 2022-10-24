@@ -6,7 +6,7 @@
   
   - I graduated from the Department of Economics and studied Business Economics in depth.
   
-  - For example, Theory of Games, Economics of Technological Innovation, etc.
+  - While studying my majo, I became interested in consumer preferences and choices. So,
 
 - 👀 **I`m interested in**
 
