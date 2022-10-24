@@ -24,7 +24,7 @@
 <br>
 
 
-## 💡 PRESENT CONDITION
+# 💡 PRESENT CONDITION
 
 <p align="left">
 <br>
@@ -37,7 +37,7 @@
 </p>
 
 
-## 💡 TECHNICAL STACK EXPERIENCED
+# 💡 TECHNICAL STACK EXPERIENCED
 
 <p align="left">
 <br>
@@ -67,7 +67,7 @@
 <br>
 
 
-## 📫 HOW TO REACH ME
+# 📫 HOW TO REACH ME
 
 <br>
 <p align="left">
