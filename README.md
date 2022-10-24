@@ -8,13 +8,13 @@
   
   - For example, Theory of Games, Economics of Technological Innovation, etc.
 
-- 👀 **i`m interested in**
+- 👀 **I`m interested in**
 
   - Analyzing personal preference from his or her choices
   
   - Recommending a lifesytle that suits personal preference
   
-- 🌱 **i`m currently learning**
+- 🌱 **I`m currently learning**
 
   - Exploratory Data Analysis
   
@@ -22,7 +22,6 @@
 
   - Crawling
 <br>
-</br>
 
 
 ## 💡 MY GITHUB STATS
@@ -30,8 +29,6 @@
 <br>
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </br>
-</br>
-
 
 
 ## 💡 TECHNICAL STACK EXPERIENCED
@@ -65,7 +62,6 @@
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp;
 </p>
 <br>
-</br>
 
 
 ## 📫 HOW TO REACH ME
