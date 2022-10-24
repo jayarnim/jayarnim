@@ -18,7 +18,7 @@
 
   - Exploratory Data Analysis
   
-  - Machine Learning
+  - Machine Learning & 
 
   - Crawling
 <br>
