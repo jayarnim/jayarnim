@@ -27,8 +27,6 @@
 
 ## 💡 TECHNICAL STACK EXPERIENCED
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&langs_count=8)](https://github.com/anuraghazra/github-readme-통계)
-
 <br>
 <p align="left">
 <a href="#">
@@ -61,19 +59,24 @@
 
 ## 💡 ANOTHER ARCHIEVE
 
+<br>
 <p align="left">
 <a href="https://blog.naver.com/arnimjay727">
 <img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
 <a href="https://instagram.com/ruhig.arnim">
 <img src="https://img.shields.io/badge/preference%20collection-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
-<br>
 </br>
 <br>
 </br>
 
 
 ## 📫 HOW TO REACH ME
-[![Gmail Badge](https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com)](mailto:jayarnim727@gmail.com) &nbsp;
+
+<br>
+<p align="left">
+<a href="mailto:jayarnim727@gmail.com">
+<img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
+</br>
 
 
 <!---
