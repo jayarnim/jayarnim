@@ -22,6 +22,7 @@
 
   - Crawling
 <br>
+<br>
 
 
 # 💡 PRESENT CONDITION
@@ -32,7 +33,8 @@
 <br>
 <br>
 <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</br>
+<br>
+<br>
 <br>
 </p>
 
@@ -64,6 +66,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp;
 </p>
+<br>
 <br>
 
 
