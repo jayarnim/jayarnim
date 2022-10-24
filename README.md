@@ -34,11 +34,17 @@
 
 # 📕 RESEARCH
 
-- **A study on the revitalization of small logistics companies using the sharing economy(2019)**, Thesis Competition 6th, Foundation of Korea Logistics Industry Promotion
+- **A study on the revitalization of small logistics companies using the sharing economy(2019)**
 
-- **A study on how to build an inter-Korean economic community(2018)**, Term-Paper Design Competition 16th, Financial News
+  - Thesis Competition 6th, Foundation of Korea Logistics Industry Promotion
 
-- **A study on the feasibility and effectiveness of a cashless society(2016)**, Academic Forum 21th, College of Economics and Commerce, Kookmin Univ.
+- **A study on how to build an inter-Korean economic community(2018)**
+
+  - Term-Paper Design Competition 16th, Financial News
+
+- **A study on the feasibility and effectiveness of a cashless society(2016)**
+
+  - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ.
 <br><br><br>
 
 
