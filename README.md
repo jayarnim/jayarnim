@@ -24,7 +24,7 @@
 <br>
 
 
-## 💡 MY CURRENT GITHUB STATE
+## 💡 PRESENT CONDITION
 
 <p align="left">
 <br>
