@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=01DF3A&height=160&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=04B431&height=160&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=BDBDBD"/>
 
 - 👋 **Hi, there!**
 
