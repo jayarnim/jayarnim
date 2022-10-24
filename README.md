@@ -65,9 +65,8 @@
 <img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=linktr.ee/arnimjay727"/></a> &nbsp;
 </br>
 <br>
-<p align="left">
 <a href="https://blog.naver.com/arnimjay727">
-<img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
+<img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
 <a href="https://brunch.co.kr/@jayjay727">
 <img src="https://img.shields.io/badge/brunch-E6E6E6?style=flat-square&logo=Kakao&logoColor=black&link=https://brunch.co.kr/@jayjay727"/></a> &nbsp;
 <a href="https://instagram.com/ruhig.arnim">
