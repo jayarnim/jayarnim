@@ -63,9 +63,9 @@
 
 <p align="left">
 <a href="https://blog.naver.com/arnimjay727">
-<img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a>
+<img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
 <a href="https://instagram.com/ruhig.arnim">
-<img src="https://img.shields.io/badge/preference%20collection-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a>
+<img src="https://img.shields.io/badge/preference%20collection-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ruhig.arnim"/></a> &nbsp;
 <br>
 </br>
 <br>
