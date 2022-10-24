@@ -61,8 +61,8 @@
 
 <br>
 <p align="left">
-<a href="linktr.ee/arnimjay727">
-<img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=linktr.ee/arnimjay727"/></a> &nbsp;
+<a href="https://linktr.ee/arnimjay727">
+<img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=https://linktr.ee/arnimjay727"/></a> &nbsp;
 </br>
 <br>
 <a href="https://blog.naver.com/arnimjay727">
