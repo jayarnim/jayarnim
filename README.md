@@ -23,8 +23,6 @@
   - Crawling
 <br>
 </br>
-<br>
-</br>
 
 
 ## 💡 TECHNICAL STACK EXPERIENCED
