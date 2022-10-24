@@ -24,6 +24,14 @@
 <br><br><br>
 
 
+# 👨🏻‍🎓 DIPLOMA
+
+- **BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE
+
+- **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
+<br><br><br>
+
+
 # 💡 PRESENT CONDITION
 
 <br><p align="left">
