@@ -33,7 +33,7 @@
 </p><br><br>
 
 
-# 💡 TECHNICAL STACK EXPERIENCED
+# 🛠 TECHNICAL STACK EXPERIENCED
 
 <br><p align="left">
 <a href="#">
