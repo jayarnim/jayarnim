@@ -34,15 +34,15 @@
 
 # 📕 RESEARCH
 
-- **A study on the revitalization of small logistics companies using the sharing economy**
+- [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
   - Thesis Competition 6th, Foundation of Korea Logistics Industry Promotion, 2019
 
-- **A study on how to build an inter-Korean economic community**
+- [**A study on how to build an inter-Korean economic community**](https://blog.naver.com/arnimjay727/222911690349)
 
   - Term-Paper Design Competition 16th, Financial News, 2018
 
-- **A study on the feasibility and effectiveness of a cashless society**
+- [**A study on the feasibility and effectiveness of a cashless society**](https://blog.naver.com/arnimjay727/222911689340)
 
   - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016
 <br><br><br>
