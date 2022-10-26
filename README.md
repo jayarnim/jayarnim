@@ -81,6 +81,8 @@
 <a href="#">
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a> &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/olium-77B829?style=flat-square&logo=Folium&logoColor=white"/></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
