@@ -83,17 +83,19 @@
 <a href="#">
 <img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=Folium&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>
+<br><br>
 <a href="#">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<br><br>
 <a href="#">
 <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
 </p><br><br>
 
 
