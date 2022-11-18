@@ -2,11 +2,11 @@
 
 ### 👋 **HI, THERE!**
 
-  - I`m a student studying to come true my dream, Data Analyst.
+  - I'm a student studying to come true my dream, `Data Analyst`.
   
-  - I graduated from the Department of Economics and studied Business Economics in depth.
+  - I graduated from the Department of `Economics` and studied `Business Economics` in depth.
   
-  - While studying my major, I became interested in consumer preferences and choices. So,
+  - While studying my major, I became interested in consumer's `preferences` and `choices`. So,
 
 ### 👀 **I FOCUS ON**
 
