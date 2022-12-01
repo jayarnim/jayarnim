@@ -108,7 +108,7 @@
 <a href="https://blog.naver.com/arnimjay727">
 <img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
 <a href="https://instagram.com/analyst.note.kr">
-<img src="https://img.shields.io/badge/piece%20of%20inspiration-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/insight.note.kr"/></a> &nbsp;
 
 
 <!---
