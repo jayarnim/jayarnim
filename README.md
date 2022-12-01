@@ -65,6 +65,10 @@
 <a href="#">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/HTML-E4405F?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/CSS-E4405F?style=for-the-badge&logo=CSS3&logoColor=#1572B6"/></a> &nbsp;
+<a href="#">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <br><br>
 <a href="#">
