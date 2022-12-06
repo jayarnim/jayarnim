@@ -23,7 +23,7 @@
   - Crawling
 <br><br><br>
 
-
+---
 # 👨🏻‍🎓 DIPLOMA
 
 - **COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE
@@ -31,7 +31,7 @@
 - **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
 <br><br><br>
 
-
+---
 # 📕 RESEARCH
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
@@ -47,7 +47,7 @@
   - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016
 <br><br><br>
 
-
+---
 # 🛠 TECHNICAL STACK EXPERIENCED
 
 <br><p align="left">
@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a> &nbsp;
 </p><br><br>
 
-
+---
 # 📫 HOW TO REACH ME
 
 <br><p align="left">
