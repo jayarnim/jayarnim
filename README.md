@@ -73,21 +73,14 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 <br><br>
 
+**`DATA FRAME`** : 
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
- 
-<a href="#">
-<img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<br>
   
+**`VISUALIZING`** : 
 <a href="#">
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -95,7 +88,21 @@
 <a href="#">
 <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>
+<br>
+  
+**`MACHINE LEARNING`** : 
+<a href="#">
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<br>
+ 
+**`CRAWLING`** : 
+<a href="#">
+<img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 </p><br><br>
 
 ---
