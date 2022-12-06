@@ -65,7 +65,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/CSS3-E4405F?style=for-the-badge&logo=CSS3&logoColor=#1572B6"/></a> &nbsp;
 <a href="#">
