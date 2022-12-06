@@ -50,7 +50,7 @@
 
 # 🛠 TECHNICAL STACK EXPERIENCED
 
-<p align="left">
+<br><p align="left">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
@@ -101,7 +101,7 @@
 
 # 📫 HOW TO REACH ME
 
-<p align="left">
+<br><p align="left">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://linktr.ee/arnimjay727">
