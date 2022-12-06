@@ -50,9 +50,7 @@
 
 # 🛠 TECHNICAL STACK EXPERIENCED
 
-<p align="left">
-<img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayarnim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<br><br>
+<p align="center">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
