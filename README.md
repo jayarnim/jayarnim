@@ -50,7 +50,7 @@
 
 # 🛠 TECHNICAL STACK EXPERIENCED
 
-<p align="center">
+<p align="left">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
