@@ -48,13 +48,6 @@
 <br><br><br>
 
 
-# 💡 PRESENT CONDITION
-
-<p align="left">
-<img width="550em" src="https://github-readme-stats.vercel.app/api?username=jayarnim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p><br><br>
-
-
 # 🛠 TECHNICAL STACK EXPERIENCED
 
 <p align="left">
