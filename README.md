@@ -34,15 +34,19 @@
 ---
 # 💡 PROJECT
 
+<details><summary><h3>INDEX</h3></summary>
+
 - [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
 - [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
 
 - [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
-<br><br><br>
+</details><br>
 
 ---
 # 📕 RESEARCH
+
+<details><summary><h3>INDEX</h3></summary>
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
@@ -55,7 +59,7 @@
 - [**A study on the feasibility and effectiveness of a cashless society**](https://blog.naver.com/arnimjay727/222911689340)
 
   - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016
-<br><br><br>
+</details><br>
 
 ---
 # 🛠 TECHNICAL STACK EXPERIENCED
