@@ -1,5 +1,9 @@
 # BIGDATA BOOT CAMP 15TH
 
+[**바로 가기**](https://playdata.io/)
+
+---
+
 ## 프로젝트
 
 ---
