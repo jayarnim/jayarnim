@@ -24,16 +24,16 @@
 <br><br><br>
 
 
-## 🏃‍ EXPERIENCE
+## 🏃‍ EXPERIENCE 🏃‍
 
-<details><summary><h4>👨🏻‍🎓 DIPLOMA</h4></summary>
+<details><summary><h3>👨🏻‍🎓 DIPLOMA</h3></summary>
 
 - [**COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE](https://playdata.io/)
 
 - **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
 </details>
 
-<details><summary><h4>💡 PROJECT</h4></summary>
+<details><summary><h3>💡 PROJECT</h3></summary>
 
 - [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
@@ -42,7 +42,7 @@
 - [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
 </details>
 
-<details><summary><h4>📕 RESEARCH</h4></summary>
+<details><summary><h3>📕 RESEARCH</h3></summary>
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
@@ -58,7 +58,7 @@
 </details><br>
 
 
-## 🛠 TECHNICAL STACK EXPERIENCED
+## 🛠 TECHNICAL STACK EXPERIENCED 🛠
 
 <br><p align="center">
 <a href="#">
@@ -113,7 +113,7 @@
 </p><br><br>
 
 
-## 📫 HOW TO REACH ME
+## 📫 HOW TO REACH ME 📫
 
 <br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
