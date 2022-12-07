@@ -4,9 +4,9 @@
 
 ---
 
-## 실습
+## 인공지능 실습
 
-<details><summary><h3>지도학습</h3></summary>
+<details><summary><h3>지도학습(AI)</h3></summary>
 
 - 의사결정나무 분류 알고리즘 실습
   - 알고리즘 : 의사결정나무
@@ -25,7 +25,7 @@
   - data set : BIKE
 </details>
 
-<details><summary><h3>비지도학습</h3></summary>
+<details><summary><h3>비지도학습(ML)</h3></summary>
 
 - 군집분석 알고리즘 실습
   - 알고리즘 : K-Fold
@@ -36,7 +36,7 @@
   - data set : DIGITS
 </details>
 
-<details><summary><h3>신경망학습</h3></summary>
+<details><summary><h3>신경망학습(</h3></summary>
 
 - 분류분석 알고리즘 실습
   - data set : TITANIC
