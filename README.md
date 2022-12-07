@@ -34,7 +34,7 @@
 ---
 # 💡 PROJECT
 
-- [**Fire Safety AI Prediction Contest 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
+- [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
 - [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
 
