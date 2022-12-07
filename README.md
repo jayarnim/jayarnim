@@ -70,6 +70,8 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 <br><br>
 
