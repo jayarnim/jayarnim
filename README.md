@@ -58,7 +58,7 @@
 </details><br>
 
 ---
-<h1 align="center">🛠 TECHNICAL STACK EXPERIENCED 🛠</h1>
+<h1 align="center">🛠 TECHNICAL STACK 🛠</h1>
 
 <br><p align="center">
 <a href="#">
