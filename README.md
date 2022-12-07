@@ -32,6 +32,16 @@
 <br><br><br>
 
 ---
+# 💡 PROJECT
+
+- [**Fire Safety AI Prediction Contest 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
+
+- [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
+
+- [**Creating a Market Kurly Package**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
+<br><br><br>
+
+---
 # 📕 RESEARCH
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
