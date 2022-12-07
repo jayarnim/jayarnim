@@ -24,7 +24,7 @@
 <br><br><br>
 
 ---
-# 🏃‍ EXPERIENCE 🏃‍
+<h1 align="center">🏃‍ EXPERIENCE 🏃‍</h1>
 
 <details><summary><h3>👨🏻‍🎓 DIPLOMA</h3></summary>
 
@@ -58,7 +58,7 @@
 </details><br>
 
 ---
-# 🛠 TECHNICAL STACK EXPERIENCED 🛠
+<h1 align="center">🛠 TECHNICAL STACK EXPERIENCED 🛠</h1>
 
 <br><p align="center">
 <a href="#">
@@ -113,7 +113,7 @@
 </p><br><br>
 
 ---
-# 📫 HOW TO REACH ME 📫
+<h1 align="center">📫 HOW TO REACH ME 📫</h1>
 
 <br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
