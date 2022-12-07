@@ -1,10 +1,12 @@
-# 프로젝트
+# BIGDATA BOOT CAMP 15TH
+
+## 프로젝트
 
 ---
 
-# 실습
+## 실습
 
-### 지도학습
+<details><summary><h3>지도학습</h3></summary>
 
 - 의사결정나무 분류 알고리즘 실습
   - 알고리즘 : 의사결정나무
@@ -21,9 +23,9 @@
 - 회귀분석 알고리즘 실습
   - 알고리즘 : 선형회귀, 확률적 경사하강회귀, 랜덤 포레스트, 그라디언트 부스팅
   - data set : BIKE
-<br>
+</details>
 
-### 비지도학습
+<details><summary><h3>비지도학습</h3></summary>
 
 - 군집분석 알고리즘 실습
   - 알고리즘 : K-Fold
@@ -32,9 +34,9 @@
 - 주성분분석 알고리즘 실습
   - 알고리즘 : PCA
   - data set : DIGITS
-<br>
+</details>
 
-### 신경망학습
+<details><summary><h3>신경망학습</h3></summary>
 
 - 분류분석 알고리즘 실습
   - data set : TITANIC
@@ -45,3 +47,4 @@
 - CNN(Convolutional Neural Networks) 알고리즘 실습
 
 - RNN(Recurrent Neural Networks) 알고리즘 실습
+</details>
