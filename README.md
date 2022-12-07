@@ -24,29 +24,25 @@
 <br><br><br>
 
 ---
-# 👨🏻‍🎓 DIPLOMA
+# 🏃‍ EXPERIENCE
+
+<details><summary><h3>👨🏻‍🎓 DIPLOMA</h3></summary>
 
 - [**COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE](https://playdata.io/)
 
 - **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
-<br><br><br>
+</details>
 
----
-# 💡 PROJECT
-
-<details><summary><h3>INDEX</h3></summary>
+<details><summary><h3>💡 PROJECT</h3></summary>
 
 - [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
 - [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
 
 - [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
-</details><br>
+</details>
 
----
-# 📕 RESEARCH
-
-<details><summary><h3>INDEX</h3></summary>
+<details><summary><h3>📕 RESEARCH</h3></summary>
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
