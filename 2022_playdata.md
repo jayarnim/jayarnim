@@ -8,11 +8,18 @@
 
 ---
 
-## 탐색적 자료 분석 실습
+## 실습
 
----
+<details><summary><h3>탐색적 자료 분석(EDA)</h3></summary>
 
-## 인공지능 실습
+- [**지도 시각화 실습**](https://github.com/jayarnim/PRACTICE_EDA_STARBUCKS)
+  - 라이브러리 : folium
+  - data set : 상가(상권)정보 API (소상공인시장진흥공단 제공, 공공데이터포털)
+
+- [**데이터 앱 제작 실습**](https://github.com/jayarnim/PRCTICE_EDA_COVID)
+  - 라이브러리 : plotly, folium, streamlit
+  - data set : 코로나19 시·도발생 현황 (보건복지부 제공, 공공데이터포털)
+</details>
 
 <details><summary><h3>지도학습(AI)</h3></summary>
 
