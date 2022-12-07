@@ -110,7 +110,7 @@
 <img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=https://linktr.ee/arnimjay727"/></a>
 </p><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
   
 <!---
 jayarnim/jayarnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
