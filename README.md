@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=240&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=white&animation=twinkling&rotate=15&fontAlign=58&fontAlignY=40"/>
 
-### 👋 **HI, THERE!**
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **HI, THERE!**
 
   - I'm a student studying to come true my dream, `Data Analyst`.
   
