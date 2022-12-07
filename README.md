@@ -107,9 +107,11 @@
 
 <br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
-<img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
-<a href="https://linktr.ee/arnimjay727">
-<img src="https://img.shields.io/badge/Link%20tree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&link=https://linktr.ee/arnimjay727"/></a>
+<img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
+<a href="https://blog.naver.com/arnimjay727">
+<img src="https://img.shields.io/badge/naver%20blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/arnimjay727"/></a> &nbsp;
+<a href="https://instagram.com/analyst.note.kr">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/></a>
 </p><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
