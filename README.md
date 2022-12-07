@@ -105,7 +105,7 @@
 ---
 # 📫 HOW TO REACH ME
 
-<br><p align="left">
+<br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/jayarnim727@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://linktr.ee/arnimjay727">
