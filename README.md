@@ -38,7 +38,7 @@
 
 - [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
 
-- [**Creating a Market Kurly Package**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
+- [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
 <br><br><br>
 
 ---
