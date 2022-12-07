@@ -36,7 +36,7 @@
   - data set : DIGITS
 </details>
 
-<details><summary><h3>신경망학습(</h3></summary>
+<details><summary><h3>신경망학습(DL)</h3></summary>
 
 - 분류분석 알고리즘 실습
   - data set : TITANIC
