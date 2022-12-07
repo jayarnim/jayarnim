@@ -28,7 +28,7 @@
 
 <details><summary><h3>👨🏻‍🎓 DIPLOMA</h3></summary>
 
-- [**COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE]([https://playdata.io/](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
+- [**COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
 - **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
 </details>
