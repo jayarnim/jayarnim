@@ -115,9 +115,9 @@
 <br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white"/></a> &nbsp;
-<a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
 <a href="#">
