@@ -26,14 +26,14 @@
 ---
 <h1 align="center">🏃‍ EXPERIENCE 🏃‍</h1>
 
-<details><summary><h3>👨🏻‍🎓 I HAVE COMPLETED COURSES AT THE FOLLOWING INSTITUTIONS</h3></summary>
+<details><summary><h3>👨🏻‍🎓 I Have Completed The Following Courses</h3></summary>
 
 - [**COMPLETION OF BIGDATA BOOT CAMP 15TH**, PLAYDATA, ENCORE](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
 - **BACHELOR OF ECONOMICS**, COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
 </details>
 
-<details><summary><h3>💡 I HAVE COMPLETED THE FOLLOWING PROJECTS</h3></summary>
+<details><summary><h3>💡 I Have Completed The Following Projects</h3></summary>
 
 - [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
@@ -42,7 +42,7 @@
 - [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
 </details>
 
-<details><summary><h3>📕 I HAVE WRITTEN THE FOLLOWING PAPARS AND JOURNALS</h3></summary>
+<details><summary><h3>📕 I Have Written The Following Papers & Journals</h3></summary>
 
 - [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
