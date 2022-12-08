@@ -21,7 +21,7 @@
   - `Artificial Intelligence`
 
   - `Front-End`
-<br><br><br>
+<br><br>
 
 
 <h1 align="center">🏃‍ EXPERIENCE 🏃‍</h1>
