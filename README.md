@@ -79,7 +79,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a> &nbsp;
 
 <a href="#">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
@@ -89,7 +89,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=for-the-badge&logo=Bitdefender&logoColor=black"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a> &nbsp;
 
 <a href="#">
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/></a> &nbsp;
@@ -98,7 +98,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/wordcloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a> &nbsp;
 
 <a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a> &nbsp;
