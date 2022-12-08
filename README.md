@@ -10,9 +10,9 @@
 
 ### 👀 **I FOCUS ON**
 
-  - Analyzing personal preference from his or her choices
+  - `Analyzing` personal preference from his or her choices
   
-  - Recommending a lifesytle that suits personal preference
+  - `Recommending` a lifesytle that suits personal preference
   
 ### 🌱 **I AM CURRENTLY LEARNING**
 
