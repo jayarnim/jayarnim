@@ -23,7 +23,7 @@
   - `Front-End`
 <br><br><br>
 
----
+
 <h1 align="center">🏃‍ EXPERIENCE 🏃‍</h1>
 
 <details><summary><h3>👨🏻‍🎓 I Have Completed The Following Courses</h3></summary>
@@ -57,7 +57,7 @@
   - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016
 </details><br>
 
----
+
 <h1 align="center">🛠 TECHNICAL STACK 🛠</h1>
 
 <br><p align="center">
@@ -112,7 +112,7 @@
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 </p><br><br>
 
----
+
 <h1 align="center">📫 HOW TO REACH ME 📫</h1>
 
 <br><p align="center">
