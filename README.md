@@ -16,13 +16,13 @@
   
 ### 🌱 **I AM CURRENTLY LEARNING**
 
-  - Exploratory Data Analysis
+  - `Exploratory Data Analysis`
   
-  - Artificial Intelligence
+  - `Artificial Intelligence`
 
-  - Crawling
+  - `Crawling`
 
-  - Front-End
+  - `Front-End`
 <br><br><br>
 
 ---
