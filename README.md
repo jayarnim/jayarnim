@@ -21,6 +21,8 @@
   - Artificial Intelligence
 
   - Crawling
+
+  - Front-End
 <br><br><br>
 
 ---
