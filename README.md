@@ -20,7 +20,7 @@
   
   - `Artificial Intelligence`
 
-  - `Crawling`
+  - `Crawling` & `craping`
 
   - `Front-End`
 <br><br><br>
