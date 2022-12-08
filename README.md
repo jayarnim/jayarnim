@@ -60,7 +60,7 @@
 
 <h1 align="center">🛠 TECHNICAL STACK 🛠</h1>
 
-<br><p align="center">
+<br><p align="left">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
@@ -75,7 +75,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/></a>
 <br><br>
 
-<p align="center">
+<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -115,7 +115,7 @@
 
 <h1 align="center">📫 HOW TO REACH ME 📫</h1>
 
-<br><p align="center">
+<br><p align="left">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://blog.naver.com/arnimjay727">
