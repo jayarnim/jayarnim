@@ -77,53 +77,39 @@
 
 <p align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
-<br><br>
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-<br>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a> &nbsp;
 
 <a href="#">
-<img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/></a> &nbsp;
+<img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=for-the-badge&logo=Bitdefender&logoColor=black"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
-<br>
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=Folium&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=Folium&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/wordcloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>
-<br>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Font Awesome-528DD7?style=for-the-badge&logo=Font Awesome&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/></a>
 </p><br><br>
 
 
