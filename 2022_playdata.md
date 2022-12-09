@@ -10,7 +10,7 @@
 
 ## 실습
 
-<details><summary><h3>👀 탐색적 자료 분석(EDA)</h3></summary>
+<details><summary><h3>🔎 탐색적 자료 분석(EDA)</h3></summary>
 
 - [**지도 시각화 실습**](https://github.com/jayarnim/PRACTICE_EDA_STARBUCKS)
   - 라이브러리 : folium
@@ -62,4 +62,9 @@
 - [**CNN(Convolutional Neural Networks) 알고리즘 실습**]()
 
 - [**RNN(Recurrent Neural Networks) 알고리즘 실습**]()
+</details>
+
+<details><summary><h3>👀 CRAWLING & SCRAPING</h3></summary>
+
+- practice
 </details>
