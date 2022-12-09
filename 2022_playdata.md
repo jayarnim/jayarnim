@@ -6,7 +6,11 @@
 
 ---
 
-## 프로젝트
+## FINAL PROJECT
+
+---
+
+## 중간 프로젝트
 
 <details><summary><h3>🔎 마켓컬리 패키지 설계하기</h3></summary>
 
