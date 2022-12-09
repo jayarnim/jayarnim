@@ -6,11 +6,11 @@
 
 ---
 
-## FINAL PROJECT
+## ✨ FINAL PROJECT
 
 ---
 
-## MIDDLE PROJECT
+## 💡 MIDDLE PROJECT
 
 <details><summary><h3>🔎 마켓컬리 패키지 설계하기</h3></summary>
 
