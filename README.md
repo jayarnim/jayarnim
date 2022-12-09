@@ -54,7 +54,7 @@
 
 - [**A study on the feasibility and effectiveness of a cashless society**](https://blog.naver.com/arnimjay727/222911689340)
 
-  - Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016
+  - [Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016](https://kyungsang.kookmin.ac.kr/)
 </details><br>
 
 
