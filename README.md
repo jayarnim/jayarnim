@@ -60,7 +60,7 @@
 
 <h1 align="center">🛠 TECHNICAL STACK 🛠</h1>
 
-<br><p align="center">
+<br><p align="left">
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
@@ -77,7 +77,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/></a> &nbsp;
 </p><br>
 
-<p align="center">
+<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 </p><br>
 
-<p align="center">
+<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -128,7 +128,7 @@
 
 <h1 align="center">📫 HOW TO REACH ME 📫</h1>
 
-<br><p align="center">
+<br><p align="left">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a> &nbsp;
 <a href="https://blog.naver.com/arnimjay727">
