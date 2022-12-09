@@ -12,7 +12,7 @@
 
 ## 💡 MIDDLE PROJECT
 
-<details><summary><h3>🔎 마켓컬리 패키지 설계하기</h3></summary>
+<details><summary><h3>🎁 마켓컬리 패키지 설계하기</h3></summary>
 
 - 목적 : 파이썬 프로그래밍 언어 활용
 - 주요 내용 : 회원 정보, 상품 정보 및 구매 기능이 구현된 패키지 설계
@@ -22,7 +22,7 @@
 - [**바로 가기**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
 </details>
 
-<details><summary><h3>🔎 OTT 서비스 네이버 검색량과 실제 이용 현황 간 상관관계 분석하기</h3></summary>
+<details><summary><h3>📊 OTT 서비스 네이버 검색량과 실제 이용 현황 간 상관관계 분석하기</h3></summary>
 
 - 목적 : 탐색적 자료 분석
 - 주요 내용 : 주요 OTT 서비스의 네이버 검색량과 실제 이용 현황 간 상관관계를 분석하는 데이터 앱 설계
@@ -32,7 +32,7 @@
 - [**바로 가기**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
 </details>
 
-<details><summary><h3>🔎 제2회 소방 안전 AI 예측 경진 대회</h3></summary>
+<details><summary><h3>🕵️‍♀️ 제2회 소방 안전 AI 예측 경진 대회</h3></summary>
 
 - 목적 : 인공지능
 - 주요 내용 : 인공지능을 활용한 예측 모델 설계
