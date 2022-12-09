@@ -35,7 +35,9 @@
 
 <details><summary><h3>💡 I Have Completed The Following Projects</h3></summary>
 
-- [**Fire Safety AI Prediction Competition 2th**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
+- [**Implementing a Translator, `Papago`**](https://github.com/jayarnim/PROJECT_PAPAGO)
+  
+- [**Fire Safety AI Prediction Competition 2nd**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 
 - [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
 
