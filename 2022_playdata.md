@@ -10,7 +10,7 @@
 
 ---
 
-## 중간 프로젝트
+## MIDDLE PROJECT
 
 <details><summary><h3>🔎 마켓컬리 패키지 설계하기</h3></summary>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 📚 실습
+## 📚 PRACTICE
 
 <details><summary><h3>🔎 탐색적 자료 분석(EDA)</h3></summary>
 
