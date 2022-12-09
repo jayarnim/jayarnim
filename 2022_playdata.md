@@ -42,7 +42,7 @@
 - [**바로 가기**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
 </details>
 
-<details><summary><h3>🔎 네이버 파파고 번역기 구현하기</h3></summary>
+<details><summary><h3>👄 네이버 파파고 번역기 구현하기</h3></summary>
 
 - 목적 : Front-End
 - 주요 내용 : HTML, CSS, JavaScript를 활용한 웹 페이지 생성
