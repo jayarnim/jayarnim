@@ -28,8 +28,28 @@
 - 주요 내용 : 주요 OTT 서비스의 네이버 검색량과 실제 이용 현황 간 상관관계를 분석하는 데이터 앱 설계
 - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
 - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/> <img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=Folium&logoColor=white"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
-- 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+- 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - [**바로 가기**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
+</details>
+
+<details><summary><h3>🔎 제2회 소방 안전 AI 예측 경진 대회</h3></summary>
+
+- 목적 : 인공지능
+- 주요 내용 : 인공지능을 활용한 예측 모델 설계
+- 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
+- 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+- 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+- [**바로 가기**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
+</details>
+
+<details><summary><h3>🔎 네이버 파파고 번역기 구현하기</h3></summary>
+
+- 목적 : Front-End
+- 주요 내용 : HTML, CSS, JavaScript를 활용한 웹 페이지 생성
+- 주요 언어 : <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+- 주요 프레임워크 : <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+- 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+- [**바로 가기**](https://github.com/jayarnim/PROJECT_PAPAGO)
 </details>
 
 ---
