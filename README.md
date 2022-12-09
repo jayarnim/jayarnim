@@ -44,11 +44,11 @@
 
 <details><summary><h3>📕 I Have Written The Following Papers & Journals</h3></summary>
 
-- [**A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
+- [**🏆 A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
 
   - [Thesis Competition 6th, Foundation of Korea Logistics Industry Promotion, 2019](http://www.klip.or.kr/kha/contest_write.php?idx=298&startPage=0&part_idx=7&s_i=&s_o=&search_kind=&top_navi=1&sub_navi=12&part_idx=7)
 
-- [**A study on how to build an inter-Korean economic community**](https://blog.naver.com/arnimjay727/222911690349)
+- [**🏆 A study on how to build an inter-Korean economic community**](https://blog.naver.com/arnimjay727/222911690349)
 
   - [Term-Paper Design Competition 16th, Financial News, 2018](http://fnnmice.com/bbs/board.php?bo_table=awards&wr_id=59)
 
