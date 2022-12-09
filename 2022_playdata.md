@@ -30,29 +30,29 @@
 - [**분류분석 의사결정나무 알고리즘 실습**](https://github.com/jayarnim/PRCTICE_ML_DECISIONTREE_CLF)
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>ㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍㅍ
-  - 알고리즘 : 의사결정나무
+  - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  - 알고리즘 : `Decisiontree Classifier`
   - data set : IRIS
 
 - [**회귀분석 의사결정나무 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-  - 알고리즘 : 의사결정나무
+  - 알고리즘 : `Decisiontree Regression`
   - data set : BOSTON
 
 - [**분류분석 지도학습 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-  - 알고리즘 : KNN, 랜덤 포레스트, 그라디언트 부스팅
+  - 알고리즘 : `KNN Classifier`, `Random Forest Classifier`, `GBM Classifier`
   - data set : TITANIC
  
 - [**회귀분석 지도학습 알고리즘 실습**](https://github.com/jayarnim/PRCTICE_ML_REGRESSION)
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-  - 알고리즘 : 선형회귀, 확률적 경사하강회귀, 랜덤 포레스트, 그라디언트 부스팅
+  - 알고리즘 : `Linear Regression`, `SGD Regression`, `Random Forest Regression`, `GBM Regression`
   - data set : BIKE
 </details>
 
@@ -62,14 +62,14 @@
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-  - 알고리즘 : K-Fold
+  - 알고리즘 : `K-Fold`
   - data set : WINE
 
 - [**주성분분석 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-  - 알고리즘 : PCA
+  - 알고리즘 : `PCA`
   - data set : DIGITS
 </details>
 
