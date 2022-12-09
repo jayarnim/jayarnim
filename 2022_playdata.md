@@ -1,10 +1,32 @@
 # BIGDATA BOOT CAMP 15TH
 
-[**바로 가기**](https://playdata.io/)
+- 교육 기간 : 2022. 08. 23. ~ 2023. 02. 17.
+
+- [**바로 가기**](https://playdata.io/)
 
 ---
 
 ## 프로젝트
+
+<details><summary><h3>🔎 마켓컬리 패키지 설계하기</h3></summary>
+
+- 목적 : 파이썬 프로그래밍 언어 활용
+- 주요 내용 : 회원 정보, 상품 정보 및 구매 기능이 구현된 패키지 설계
+- 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
+- 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+- 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+- [**바로 가기**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
+</details>
+
+<details><summary><h3>🔎 OTT 서비스 네이버 검색량과 실제 이용 현황 간 상관관계 분석하기</h3></summary>
+
+- 목적 : 탐색적 자료 분석
+- 주요 내용 : 주요 OTT 서비스의 네이버 검색량과 실제 이용 현황 간 상관관계를 분석하는 데이터 앱 설계
+- 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
+- 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/> <img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=Folium&logoColor=white"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+- 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+- [**바로 가기**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
+</details>
 
 ---
 
