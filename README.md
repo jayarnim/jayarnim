@@ -10,7 +10,7 @@
 
 ### 👀 **I FOCUS ON**
 
-  - `Analyzing` personal preference from his or her choices
+  - `Analyzing` his or her choices and `Predicting` personal preference
   
   - `Recommending` a lifesytle that suits personal preference
   
