@@ -75,28 +75,28 @@
 
 - [**분류분석 의사결정나무 알고리즘 실습**](https://github.com/jayarnim/PRCTICE_ML_DECISIONTREE_CLF)
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `Decisiontree Classifier`
   - data set : IRIS
 
 - [**회귀분석 의사결정나무 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `Decisiontree Regression`
   - data set : BOSTON
 
 - [**분류분석 지도학습 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `KNN Classifier`, `Random Forest Classifier`, `GBM Classifier`
   - data set : TITANIC
  
 - [**회귀분석 지도학습 알고리즘 실습**](https://github.com/jayarnim/PRCTICE_ML_REGRESSION)
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `Linear Regression`, `SGD Regression`, `Random Forest Regression`, `GBM Regression`
   - data set : BIKE
@@ -106,14 +106,14 @@
 
 - [**군집분석 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `K-Fold`
   - data set : WINE
 
 - [**주성분분석 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - 알고리즘 : `PCA`
   - data set : DIGITS
@@ -123,24 +123,24 @@
 
 - [**분류분석 신경망학습 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - data set : TITANIC
 
 - [**회귀분석 신경망학습 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   - data set : BIKE
 
 - [**CNN(Convolutional Neural Networks) 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
 - [**RNN(Recurrent Neural Networks) 알고리즘 실습**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 </details>
 
@@ -148,18 +148,18 @@
 
 - practice
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   
 - practice
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </details>
 
 <details><summary><h3>📽 FRONT-END</h3></summary>
 
-- [**랜덤 컬러 출력기 제작 실습**]()
+- [**색상 무작위 출력기 제작 실습**]()
   - 주요 언어 : <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   - 주요 프레임워크 : <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
