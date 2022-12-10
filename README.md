@@ -29,10 +29,10 @@
 <details><summary><h3>👨🏻‍🎓 I Have Completed The Following Courses</h3></summary>
 
 - [**COMPLETION OF BIGDATA BOOT CAMP 15TH**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
-  - PLAYDATA, ENCORE
+  - [PLAYDATA, ENCORE](https://playdata.io/)
 
 - 🎓 **BACHELOR OF ECONOMICS**
-  - COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.
+  - [COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.](https://kyungsang.kookmin.ac.kr/)
 </details>
 
 <details><summary><h3>💡 I Have Completed The Following Projects</h3></summary>
