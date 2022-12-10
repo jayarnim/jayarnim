@@ -148,12 +148,12 @@
 
 - practice
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   
 - practice
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </details>
 
