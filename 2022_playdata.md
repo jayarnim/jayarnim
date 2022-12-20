@@ -83,15 +83,22 @@
 
 <details><summary><h3>👀 자료 수집(CRAWLING & SCRAPING)</h3></summary>
 
-- practice
+- [**practice**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   
-- practice
+- [**practice**]()
   - 주요 언어 : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   - 주요 라이브러리 : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</details>
+
+<details><summary><h3>💽 자료 저장 및 관리(DATABASE)</h3></summary>
+
+- [**practice**]()
+  - 주요 언어 : <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  - data set : TITANIC
 </details>
 
 <details><summary><h3>👫 지도학습(AI)</h3></summary>
@@ -178,3 +185,12 @@
   - 주요 언어 : <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   - 주요 프레임워크 : <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</details>
+
+<details><summary><h3>🖥 BACK-END</h3></summary>
+
+- [**TODO APP BACK-END 설계 실습**]()
+  - 주요 언어 : <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  - 주요 프레임워크 : <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  - 주요 개발 환경 : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</details>
