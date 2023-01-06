@@ -68,17 +68,17 @@
 <a href="#">
 <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 <a href="#">
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-<a href="#">
 <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-<a href="#">
+<a href="https://github.com/jayarnim/STUDY_GIT">
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-<a href="#">
+<a href="https://github.com/jayarnim/STUDY_HTML">
 <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-<a href="#">
+<a href="https://github.com/jayarnim/STUDY_CSS">
 <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-<a href="#">
+<a href="https://github.com/jayarnim/STUDY_JS">
 <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/></a> &nbsp;
+<a href="https://github.com/jayarnim/STUDY_JAVA">
+<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
 </p><br>
 
 <p align="center">
