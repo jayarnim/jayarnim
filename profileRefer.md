@@ -42,5 +42,6 @@
 - JavaScript
   - img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   - img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  - img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
 
 </details>
