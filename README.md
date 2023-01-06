@@ -126,7 +126,9 @@
 <a href="#">
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>
+<img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a>
 </p><br><br>
 
 
