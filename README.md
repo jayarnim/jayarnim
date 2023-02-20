@@ -20,7 +20,6 @@
   
   - `Artificial Intelligence`
 
-  - `Front-End`
 <br><br>
 
 
