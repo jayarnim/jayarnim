@@ -23,45 +23,7 @@
 <br><br>
 
 
-<h1 align="center">🏃‍ EXPERIENCE 🏃‍</h1>
-
-<details><summary><h3>👨🏻‍🎓 I Have Completed The Following Courses</h3></summary>
-
-- [**COMPLETION OF BIGDATA BOOT CAMP 15TH**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
-  - [PLAYDATA, ENCORE](https://playdata.io/)
-
-- 🎓 **BACHELOR OF ECONOMICS**
-  - [COLLEGE OF ECONOMICS AND COMMERCE, KOOKMIN UNIV.](https://kyungsang.kookmin.ac.kr/)
-</details>
-
-<details><summary><h3>💡 I Have Completed The Following Projects</h3></summary>
-
-- [**Implementing a Translator, `Papago`**](https://github.com/jayarnim/PROJECT_PAPAGO)
-  
-- [**Fire Safety AI Prediction Competition 2nd**](https://github.com/jayarnim/PROJECT_FIREFIGHTER)
-
-- [**Correlation Analysis of OTT Service Search Volume and Actual Usage**](https://github.com/jayarnim/PROJECT_OTT_SERVICE)
-
-- [**Creating a Package, `Market Kurly`**](https://github.com/jayarnim/PROJECT_MARKETKURLY)
-</details>
-
-<details><summary><h3>📕 I Have Written The Following Papers & Journals</h3></summary>
-
-- [**🏆 A study on the revitalization of small logistics companies using the sharing economy**](https://blog.naver.com/arnimjay727/222911691898)
-
-  - [Thesis Competition 6th, Foundation of Korea Logistics Industry Promotion, 2019](http://www.klip.or.kr/kha/contest_write.php?idx=298&startPage=0&part_idx=7&s_i=&s_o=&search_kind=&top_navi=1&sub_navi=12&part_idx=7)
-
-- [**🏆 A study on how to build an inter-Korean economic community**](https://blog.naver.com/arnimjay727/222911690349)
-
-  - [Term-Paper Design Competition 16th, Financial News, 2018](http://fnnmice.com/bbs/board.php?bo_table=awards&wr_id=59)
-
-- [**A study on the feasibility and effectiveness of a cashless society**](https://blog.naver.com/arnimjay727/222911689340)
-
-  - [Academic Forum 21th, College of Economics and Commerce, Kookmin Univ., 2016](https://kyungsang.kookmin.ac.kr/)
-</details><br>
-
-
-<h1 align="center">🛠 TECHNICAL STACK 🛠</h1>
+<h2 align="center">🛠 TECHNICAL STACK 🛠</h2>
 
 <br><p align="center">
 <a href="#">
@@ -115,11 +77,6 @@
 <img alt="wordcloud" src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a> &nbsp;
-
-<a href="#">
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img alt="fontawesome" src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img alt="tailwind" src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -131,7 +88,7 @@
 </p><br><br>
 
 
-<h1 align="center">📫 HOW TO REACH ME 📫</h1>
+<h2 align="center">📫 HOW TO REACH ME 📫</h2>
 
 <br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
