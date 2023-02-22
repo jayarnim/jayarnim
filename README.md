@@ -70,11 +70,11 @@
 <img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a> &nbsp;
   
 <a href="#">
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=scikit-learn&logoColor=black"/></a> &nbsp;
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/></a> &nbsp;
   
 <a href="#">
 <img alt="tailwind" src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
