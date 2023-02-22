@@ -23,7 +23,7 @@
 <br><br>
 
 
-<h2 align="center">🛠 TECHNICAL STACK 🛠</h2>
+<h2 align="center">🛠 STACK 🛠</h2>
 
 <br><p align="center">
 <a href="#">
