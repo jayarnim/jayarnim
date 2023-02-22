@@ -27,30 +27,19 @@
 
 <br><p align="center">
 <a href="#">
-<img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 <a href="#">
-<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 <a href="https://github.com/jayarnim/STUDY_GIT">
-<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 <a href="https://github.com/jayarnim/STUDY_HTML">
-<img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 <a href="https://github.com/jayarnim/STUDY_CSS">
-<img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
+<img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 <a href="https://github.com/jayarnim/STUDY_JS">
-<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/></a> &nbsp;
+<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/></a> &nbsp;
 <a href="https://github.com/jayarnim/STUDY_JAVA">
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/></a> &nbsp;
-</p><br>
-
-<p align="center">
-<a href="#">
-<img alt="googlecolab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img alt="jupyternotebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
+<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/></a> &nbsp;
 </p><br>
 
 <p align="center">
