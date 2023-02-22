@@ -74,7 +74,7 @@
 <a href="#">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp;
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=scikit-learn&logoColor=black"/></a> &nbsp;
   
 <a href="#">
 <img alt="tailwind" src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a> &nbsp;
@@ -83,7 +83,7 @@
 <a href="#">
 <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
 </p><br><br>
 
 
