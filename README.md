@@ -87,7 +87,7 @@
 </p><br><br>
 
 
-<h2 align="center">📫 HOW TO REACH ME 📫</h2>
+<h2 align="center">📫 CONTACT ME 📫</h2>
 
 <br><p align="center">
 <a href="mailto:jayarnim727@gmail.com">
