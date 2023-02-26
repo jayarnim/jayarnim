@@ -17,7 +17,7 @@
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - **StudyMate** : [`byeongs1`](https://github.com/byeongs1) [`410am`](https://github.com/410am) [`ImEunhye`](https://github.com/ImEunhye) [`sadojeong`](https://github.com/sadojeong)
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
-- **Organazation** : [`달팽이 탐색단`](https://github.com/SNAILGROUP-EDA)
+- **Organization** : [`달팽이 탐색단`](https://github.com/SNAILGROUP-EDA)
 - **Repository** : [`STUDY-EDA`]()
 
 ### 👨‍🔧 Artificial Intelligence
@@ -27,7 +27,7 @@
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **StudyMate** : [`410am`](https://github.com/410am) [`wassaa-1`](https://github.com/wassaa-1)
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
-- **Organazation** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
+- **Organization** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
 - **Repository** : [`STUDY-ML`]() [`STUDY-DL`]()
 
 ### ⌨️ Back-End
@@ -37,7 +37,7 @@
 - **IDE** : <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 - **StudyMate** : [`kim-garam`](https://github.com/kim-garam) [`410am`](https://github.com/410am)
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
-- **Organazation** : [`달팽이의 속내`](https://github.com/SNAILGROUP-BACKEND)
+- **Organization** : [`달팽이 월드`](https://github.com/SNAILGROUP-WEB)
 - **Repository** : [`STUDY-BACKEND`]()
 
 ### 🖥️ Front-End
@@ -47,7 +47,7 @@
 - **IDE** : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - **StudyMate** : [`kim-garam`](https://github.com/kim-garam) [`410am`](https://github.com/410am)
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
-- **Organazation** : [`출력하는 달팽이`](https://github.com/SNAILGROUP-FRONTEND)
+- **Organization** : [`달팽이 월드`](https://github.com/SNAILGROUP-WEB)
 - **Repository** : [`STUDY-FRONTEND`]()
 
 ---
@@ -62,7 +62,7 @@
 - **Libraries** : <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/beautifulsoup-F3E2A9?style=flat-square&logo=Bitdefender&logoColor=black"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/> <img src="https://img.shields.io/badge/folium-77B829?style=flat-square&logo=Folium&logoColor=white"/> <img src="https://img.shields.io/badge/wordcloud-3693F3?style=flat-square&logo=iCloud&logoColor=white"/> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - **WorkMate** : [`byeongs1`](https://github.com/byeongs1) [`410am`](https://github.com/410am) [`ImEunhye`](https://github.com/ImEunhye) [`sadojeong`](https://github.com/sadojeong)
-- **Organazation** : [`달팽이 탐색단`](https://github.com/SNAILGROUP-EDA)
+- **Organization** : [`달팽이 탐색단`](https://github.com/SNAILGROUP-EDA)
 - **Repository** : [`design data app reporting OTT service`]()
 
 ### 🕵️‍♀️ Fire Safety AI Prediction Contest
@@ -73,5 +73,5 @@
 - **Main Library** : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **WorkMate** : [`410am`](https://github.com/410am) [`wassaa-1`](https://github.com/wassaa-1)
-- **Organazation** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
+- **Organization** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
 - **Repository** : [`Fire Safety AI Prediction Contest`]()
