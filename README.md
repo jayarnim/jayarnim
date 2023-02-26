@@ -2,7 +2,7 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **HI, THERE!**
 
-  - I'm a student studying to come true my dream, `Data Analyst`.
+  - I'm studying to come true my dream, `Data Analyst`.
   
   - I graduated from the Department of `Economics` and studied `Business Economics` in depth.
   
@@ -14,11 +14,9 @@
   
   - `Recommending` a lifesytle that suits personal preference
   
-### 🌱 **I AM CURRENTLY LEARNING**
+### 🌱 **I HAVE EXPERIENCED**
 
-  - `Exploratory Data Analysis`
-  
-  - `Artificial Intelligence`
+  - [**Bigdata Boot Camp 15th, Playdata, Enocore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
 <br><br>
 
