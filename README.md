@@ -16,7 +16,7 @@
   
 ### 🌱 **I HAVE EXPERIENCED**
 
-  - [**Bigdata Boot Camp 15th, Playdata, Enocore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
+  - [**Bigdata Boot Camp 15th, Playdata, Encore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
 <br><br>
 
