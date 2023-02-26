@@ -54,7 +54,7 @@
 
 ## 💡 Project
 
-### 📊 Design Data App Reporting OTT Service
+### 📊 Design Data App Reporting Current Condition of OTT Service
 
 - **Field** : Exploratory Data Analysis
 - **Content** : Reporting Correlation Analysis between Naver search volume & actual usage about OTT service
@@ -63,7 +63,7 @@
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - **WorkMate** : [`byeongs1`](https://github.com/byeongs1) [`410am`](https://github.com/410am) [`ImEunhye`](https://github.com/ImEunhye) [`sadojeong`](https://github.com/sadojeong)
 - **Organization** : [`달팽이 탐색단`](https://github.com/SNAILGROUP-EDA)
-- **Repository** : [`design data app reporting OTT service`]()
+- **Repository** : [`design data app reporting Current Condition of OTT service`]()
 
 ### 🕵️‍♀️ Fire Safety AI Prediction Contest
 
