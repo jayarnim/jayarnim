@@ -91,8 +91,8 @@
   - img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 - 백엔드
-  - img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  - img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
+  - img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  - img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
   
 ---  
 
@@ -120,14 +120,14 @@
   - img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   - img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   
-  - img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=ESLint&logoColor=white"/>
-  - img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=ESLint&logoColor=white"/>
+  - img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  - img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   
   - img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   - img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
   
-  - img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Tailwind CSS&logoColor=white"/>  
-  - img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>  
+  - img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>  
+  - img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
 
 ---
 
@@ -135,12 +135,14 @@
 
 - Java
   - img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/>
+  - img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=CoffeeScript&logoColor=white">
+  - img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white">
 
 - FrameWork
-  - img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  - img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  - img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  - img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   
-  - img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  - img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  - img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  - img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   
 </details>
