@@ -63,10 +63,14 @@
   - img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   - img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
-- 자료 처리 및 분석
+- 수리통계
   - img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   - img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   
+  - img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
+  - img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white"/>
+  
+- 자료 처리 
   - img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   - img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
