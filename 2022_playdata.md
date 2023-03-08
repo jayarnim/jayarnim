@@ -38,7 +38,7 @@
 ### 📚 Study - Machine Learning
 
 - **Language** : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-- **Main Library** : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+- **Main Library** : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **StudyMate** : [`410am`](https://github.com/410am) [`wassaa-1`](https://github.com/wassaa-1)
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
