@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=white&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=white&animation=twinkling" width="100%"/>
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **HI, THERE!**
 
@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/></a>
 </p><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer" width="100%"/>
   
 <!---
 jayarnim/jayarnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
