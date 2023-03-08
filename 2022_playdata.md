@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&fontColor=20B2AA&customColorList=27&height=175&section=header&text=Bigdata%20Boot%20Camp%2015th&fontSize=60&color=191970&animation=twinkling" width="100%"/>
-<!-- <h1 align = "center"> 👋 BIGDATA BOOT CAMP 15TH 👋 </h1> -->
 
 - 교육 기간 : 2022. 08. 23. ~ 2023. 02. 17.
 
@@ -90,3 +89,7 @@
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
 - **Organization** : [`달팽이 월드`](https://github.com/SNAILGROUP-WEB)
 - **Repository** : [`STUDY-FRONTEND`]()
+
+</br>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&fontColor=20B2AA&customColorList=27&height=125&section=footer&fontSize=60&color=191970&animation=twinkling" width="100%"/>
