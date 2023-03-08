@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=white&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=27&height=200&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=white&animation=twinkling" width="100%"/>
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **HI, THERE!**
 
