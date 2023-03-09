@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Basic Syntax
+## 📖 Basic Syntax About
 
 ### 📕 Git
 
