@@ -18,12 +18,12 @@
 
   - [**Bigdata Boot Camp 15th, Playdata, Encore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
-<br><br>
+<br>
 
 
 <h2 align="center">🛠 STACK 🛠</h2>
 
-<br><p align="center">
+<p align="center">
 <a href="https://github.com/jayarnim/STUDY_GIT">
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/></a>
 <a href="#">
@@ -40,7 +40,7 @@
 <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a>
 <a href="https://github.com/jayarnim/STUDY_JS">
 <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/></a>
-</p><br>
+</p>
 
 <p align="center">
 <a href="#">
@@ -82,12 +82,12 @@
 <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/></a>
 <a href="#">
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
-</p><br><br>
+</p><br>
 
 
 <h2 align="center">📫 CONTACT ME 📫</h2>
 
-<br><p align="center">
+<p align="center">
 <a href="mailto:jayarnim727@gmail.com">
 <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a>
 <a href="https://blog.naver.com/arnimjay727">
