@@ -27,8 +27,6 @@
 <a href="https://github.com/jayarnim/STUDY_GIT">
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/></a>
 <a href="#">
-<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="70" height="70"/></a>
-<a href="#">
 <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/></a>
 <a href="https://github.com/jayarnim/STUDY_JAVA">
 <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/></a>
