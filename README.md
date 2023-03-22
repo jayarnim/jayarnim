@@ -1,20 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME%20TO%20MY%20ARCHIEVE!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=I`m%20Dreaming%20Data%20Analyst!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **HI, THERE!**
-
-  - I'm studying to come true my dream, `Data Analyst`.
-  
-  - I graduated from the Department of `Economics` and studied `Business Economics` in depth.
-  
-  - While studying my major, I became interested in consumer's `preferences` and `choices`. So,
-
-### 👀 **I FOCUS ON**
+### 👀 I`m interested in consumer's preferences and choices, such as
 
   - `Analyzing` his or her choices and `Predicting` personal preference
   
   - `Recommending` a lifesytle that suits personal preference
   
-### 🌱 **I HAVE EXPERIENCED**
+### 🌱 **To achieve my dream, I have experienced**
 
   - [**Bigdata Boot Camp 15th, Playdata, Encore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
 
