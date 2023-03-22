@@ -31,14 +31,12 @@
 <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 <a href="#">
 <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-
 <a href="#">
 <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 <a href="#">
 <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 <a href="#">
-<img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>
-
+<img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a></br>
 <a href="#">
 <img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/></a>
 <a href="#">
