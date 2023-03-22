@@ -2,9 +2,11 @@
 
 ### 👀 I`m interested in consumer's preference and choices, such as
 
-  - `Analyzing` personal choices and `Predicting` his or her preference
-  
-  - `Recommending` a lifesytle that suits his or her preference
+  - `Analyzing` personal choices
+
+  - `Predicting` personal preference
+
+  - `Recommending` a lifesytle that suits personal preference
   
 ### 🌱 **To achieve my dream, I have experienced**
 
