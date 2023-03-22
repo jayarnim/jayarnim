@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=I`m%20Dreaming%20Data%20Analyst!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
-### 👀 I`m interested in consumer's preferences and choices, such as
+### 👀 I`m interested in consumer's preference and choices, such as
 
-  - `Analyzing` his or her choices and `Predicting` personal preference
+  - `Analyzing` personal choices and `Predicting` his or her preference
   
-  - `Recommending` a lifesytle that suits personal preference
+  - `Recommending` a lifesytle that suits his or her preference
   
 ### 🌱 **To achieve my dream, I have experienced**
 
