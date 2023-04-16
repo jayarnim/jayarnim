@@ -14,11 +14,7 @@
 
 <br>
 
----
-
-<br>
-
-<h3 align="center">🛠 STACK 🛠</h3>
+<h2 align="center">🛠 STACK 🛠</h2>
 
 <p align="center">
   <a href="#">
@@ -59,11 +55,7 @@
   </a>
 </p><br>
 
----
-
-<br>
-
-<h3 align="center">📫 CONTACT ME 📫</h3>
+<h2 align="center">📫 CONTACT ME 📫</h2>
 
 <p align="center">
   <a href="mailto:jayarnim727@gmail.com">
