@@ -103,8 +103,7 @@
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **StudyMate** : [`410am`](https://github.com/410am) [`wassaa-1`](https://github.com/wassaa-1)
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
-- **Organization** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
-- **Repository** : [`STUDY-DL`](https://github.com/SNAILGROUP-AI/STUDY-DL)
+- **Repository** : [`STUDY-DL`](https://github.com/jayarnim/STUDY-DL)
 
 ### 💡 Fire Safety AI Prediction Contest
 
@@ -114,7 +113,6 @@
 - **Main Library** : <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **WorkMate** : [`410am`](https://github.com/410am) [`wassaa-1`](https://github.com/wassaa-1)
-- **Organization** : [`인공지능 달팽이`](https://github.com/SNAILGROUP-AI)
 - **Repository** : [`Fire Safety AI Prediction Contest`](https://github.com/SNAILGROUP-AI/Fire-Safety-AI-Prediction-Contest)
 
 ---
