@@ -18,6 +18,9 @@
 
 <p align="center">
   <a href="#">
+    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/>
+  </a>
+  <a href="#">
     <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
   </a>
   <a href="#">
