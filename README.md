@@ -2,7 +2,7 @@
 
 ### 👀 I'm interested in consumer's preference and choices, such as
 
-  - `Analyzing` personal choices
+  - `Analyzing` personal choices and free expression
 
   - `Predicting` personal preference
 
