@@ -14,39 +14,41 @@
 
 - **Language** : <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
-- **Organization** : [`더 달팽이`](https://github.com/SNAILGROUP-BASIC)
 - **Repository** : [`STUDY-GIT`]()
 
 ### 🗂️ MySQL
 
 - **Language** : <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
-- **Organization** : [`더 달팽이`](https://github.com/SNAILGROUP-BASIC)
 - **Repository** : [`STUDY-MYSQL`]()
 
-### 🖌️ Python
+### Python
 
 - **Language** : <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
 - **IDE** : <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 - **Teacher** : [`YeonjiKim0316`](https://github.com/YeonjiKim0316)
-- **Organization** : [`더 달팽이`](https://github.com/SNAILGROUP-BASIC)
 - **Repository** : [`STUDY-PYTHON`]()
 
-### 🖊️ Java
+### Java
 
 - **Language** : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=CoffeeScript&logoColor=white">
 - **IDE** : <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
-- **Organization** : [`더 달팽이`](https://github.com/SNAILGROUP-BASIC)
 - **Repository** : [`STUDY-JAVA`]()
 
-### 🖍️ Front-End Langs
+### Mark-up Langs
 
-- **Language** : <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img alt="css3" src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+- **Language** : <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> <img alt="css3" src="https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
 - **IDE** : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 - **Teacher** : [`guguttemi`](https://github.com/guguttemi)
-- **Organization** : [`더 달팽이`](https://github.com/SNAILGROUP-BASIC)
-- **Repository** : [`STUDY-FRONTEND`]()
+- **Repository** : [`STUDY-MarkUpLangs`]()
+
+### JavaScript
+
+- **Language** : <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+- **IDE** : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-4479A1?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+- **Teacher** : [`guguttemi`](https://github.com/guguttemi)
+- **Repository** : [`STUDY-JS`]()
 
 ---
 
