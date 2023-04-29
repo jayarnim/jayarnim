@@ -1,20 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=I'm%20Dreaming%20Data%20Analyst!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
-### 👀 I'm interested in consumer's preference and choices, such as
-
-  - `Analyzing` personal choices and free expression
-
-  - `Predicting` personal preference
-
-  - `Recommending` a lifestyle suitting personal preference
-  
-### 🌱 **To achieve my dream, I have experienced**
-
-  - [**Bigdata Boot Camp 15th, Playdata, Encore**](https://github.com/jayarnim/jayarnim/blob/main/2022_playdata.md)
+<h3 align="center"> 💁 IF YOU WANT TO KNOW ME, 💁 </h3>
+<p align="center">
+<a href="https://jayarnim.github.io/"><b>I Introduce Myself</b></a></br>
+<a href="https://jayarnim.github.io/portfolio/"><b>I Have Experienced</b></a>
+</p>
 
 <br>
 
-<h2 align="center">🛠 STACK 🛠</h2><br>
+<h3 align="center">🛠 STACK 🛠</h3>
 
 <p align="center">
   <a href="#">
@@ -58,7 +52,7 @@
   </a>
 </p><br>
 
-<h2 align="center">📫 CONTACT ME 📫</h2><br>
+<h3 align="center">📫 CONTACT ME 📫</h3>
 
 <p align="center">
   <a href="mailto:jayarnim727@gmail.com">
@@ -66,6 +60,9 @@
   </a>
   <a href="https://instagram.com/analyst.note.kr">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/>
+  </a>
+  <a href="https://jayarnim.github.io/">
+    <img alt="GitHubPage" src="https://img.shields.io/badge/TechLog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </p><br>
 
