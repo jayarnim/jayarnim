@@ -1,11 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=I'm%20Dreaming%20Data%20Analyst!&fontSize=50&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=Welcome%20to%20my%20archive!&fontSize=45&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
-<h3><a href="https://jayarnim.github.io/">💁 I Introduce Myself</a></h3>
-<h3><a href="https://jayarnim.github.io/portfolio/">💁 I Have Experienced</a></h3>
+<h2 align="center">💁 If you want to know me, 💁</h2>
+<h3 align="center"><a href="https://jayarnim.github.io/">I Introduce Myself</a></h2>
+<h3 align="center"><a href="https://jayarnim.github.io/portfolio/">I Have Experienced</a></h2>
 
 <br>
 
-<h3 align="center">🛠 STACK 🛠</h3>
+<h2 align="center">🛠 STACK 🛠</h2></br>
 
 <p align="center">
   <a href="#">
@@ -49,7 +50,7 @@
   </a>
 </p><br>
 
-<h3 align="center">📫 CONTACT ME 📫</h3>
+<h2 align="center">📫 CONTACT ME 📫</h2></br>
 
 <p align="center">
   <a href="mailto:jayarnim727@gmail.com">
