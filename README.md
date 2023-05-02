@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=230&section=header&text=Welcome%20to%20My%20Archive!&fontSize=68&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 <!-- 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=230&section=header&text=Welcome%20to%20My%20Archive!&fontSize=68&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 <h2 align="center">💁 If you want to know me, 💁</h2>
 <h3 align="center"><a href="https://jayarnim.github.io/">I Introduce Myself</a></h2>
 <h3 align="center"><a href="https://jayarnim.github.io/portfolio/">I Have Experienced</a></h2>
@@ -7,6 +7,8 @@
 <br>
 
 <h2 align="center">🛠 STACK 🛠</h2></br> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
 
 <p align="center">
   <a href="#">
