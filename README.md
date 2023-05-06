@@ -4,11 +4,19 @@
 <h3 align="center"><a href="https://jayarnim.github.io/">I Introduce Myself</a></h2>
 <h3 align="center"><a href="https://jayarnim.github.io/portfolio/">I Have Experienced</a></h2>
 
-<br>
-
-<h2 align="center">🛠 STACK 🛠</h2></br> -->
+<br> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
+
+<h3 align="center">💁 INTRODUCE MYSELF 💁</h3></br>
+
+<p align="center">
+  <a href="https://linktr.ee/jayarnim727">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white"/>
+  </a>
+</p></br><hr></br>
+  
+<h3 align="center">🛠 STACK 🛠</h3></br>
 
 <p align="center">
   <a href="#">
