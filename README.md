@@ -7,14 +7,6 @@
 <br> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
-
-<h3 align="center">💁 INTRODUCE MYSELF 💁</h3></br>
-
-<p align="center">
-  <a href="https://linktr.ee/jayarnim727">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white"/>
-  </a>
-</p></br><hr></br>
   
 <h3 align="center">🛠 STACK 🛠</h3></br>
 
@@ -59,6 +51,15 @@
     <img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
   </a>
 </p><br>
+
+<hr></br><h3 align="center">💁 INTRODUCE MYSELF 💁</h3></br>
+
+<p align="center">
+  <a href="https://linktr.ee/jayarnim727">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&Color=blak"/>
+  </a>
+</p></br>
+
 <!-- 
 <h2 align="center">📫 CONTACT ME 📫</h2></br>
 
