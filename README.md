@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
   
-<h3 align="center">🛠 STACK 🛠</h3></br>
+<h2 align="center">🛠 STACK 🛠</h2></br>
 
 <p align="center">
   <a href="#">
@@ -52,7 +52,7 @@
   </a>
 </p><br>
 
-<hr></br><h3 align="center">📫 CONTACT ME 📫</h3></br>
+<h2 align="center">📫 CONTACT ME 📫</h2></br>
 
 <p align="center">
   <a href="https://jayarnim.github.io">
