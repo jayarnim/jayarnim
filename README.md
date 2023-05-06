@@ -52,11 +52,20 @@
   </a>
 </p><br>
 
-<hr></br><h3 align="center">💁 INTRODUCE MYSELF 💁</h3></br>
+<hr></br><h3 align="center">📫 CONTACT ME 📫</h3></br>
 
 <p align="center">
-  <a href="https://linktr.ee/jayarnim727">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=black&Color=blak"/>
+  <a href="https://jayarnim.github.io">
+    <img alt="GitHub" src="https://img.shields.io/badge/profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@jayarnim">
+    <img alt="Velog" src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/analyst.note.kr">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/>
+  </a>
+  <a href="mailto:jayarnim727@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/>
   </a>
 </p></br>
 
