@@ -1,11 +1,3 @@
-<!-- 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=230&section=header&text=Welcome%20to%20My%20Archive!&fontSize=68&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
-<h2 align="center">💁 If you want to know me, 💁</h2>
-<h3 align="center"><a href="https://jayarnim.github.io/">I Introduce Myself</a></h2>
-<h3 align="center"><a href="https://jayarnim.github.io/portfolio/">I Have Experienced</a></h2>
-
-<br> -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
   
 <h2 align="center">🛠 STACK 🛠</h2></br>
@@ -71,21 +63,6 @@
     <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/>
   </a>
 </p></br>
-
-<!-- 
-<h2 align="center">📫 CONTACT ME 📫</h2></br>
-
-<p align="center">
-  <a href="mailto:jayarnim727@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/>
-  </a>
-  <a href="https://instagram.com/analyst.note.kr">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/>
-  </a>
-  <a href="https://jayarnim.github.io/">
-    <img alt="GitHubPage" src="https://img.shields.io/badge/TechLog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-</p><br> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer" width="100%"/>
   
