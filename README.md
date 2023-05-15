@@ -26,10 +26,10 @@
   </a>
   <a href="#">
     <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  </a>
+  </a></br>
   <a href="#">
     <img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-  </a></br>
+  </a>
   <a href="#">
     <img alt="plotly" src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/>
   </a>
@@ -52,7 +52,7 @@
   </a>
   <a href="https://jayarnim.github.io">
     <img alt="GitHub" src="https://img.shields.io/badge/profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
+  </a></br>
   <a href="https://velog.io/@jayarnim/series">
     <img alt="Velog" src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
