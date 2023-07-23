@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=header" width="100%"/></br>
-
 <p align="center">
   <a href="https://jayarnim.github.io">
     <img alt="GitHub" src="https://img.shields.io/badge/profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -17,10 +15,7 @@
   <a href="https://instagram.com/analyst.note.kr">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/analyst.note.kr"/>
   </a>
-
-</p></br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer" width="100%"/>
+</p>
   
 <!---
 jayarnim/jayarnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
