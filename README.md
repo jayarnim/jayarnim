@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=175&section=header&text=DATA%20SCIENTIST&fontSize=45&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=175&section=header&text=Data%20Scientist&fontSize=45&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
 
 <p align="left">
@@ -6,7 +6,7 @@
   I graduated from the Department of Economics and researched Business Economics in depth, such as Theory of the Consumer, Game Theory, Information Economics and e.t.c.
   While completing my major, I became interested in consumer’s preferences and choices.
   So, I want to research analyzing personal free expression, defining personal preference, predicting personal choices, and recommending goods or service.
-  I am currently pursuing a Master's degree in Data Science at the Graduate School of Kookmin University.
+  Now I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, advised by Prof.Je-hyuk Lee.
 </p></br>
 
 <h2 align="center">🛠 STACK 🛠</h2>
@@ -34,9 +34,11 @@
   <a href="https://velog.io/@jayarnim"><img alt="Velog" src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jayarnim/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jayarnim727@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a>
-</p><br>
+</p>
 
+<!---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" width="100%"/>
+--->
   
 <!---
 jayarnim/jayarnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
