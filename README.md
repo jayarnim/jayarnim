@@ -36,7 +36,7 @@
   <a href="mailto:jayarnim727@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a>
 </p><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" width="100%"/>
   
 <!---
 jayarnim/jayarnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
