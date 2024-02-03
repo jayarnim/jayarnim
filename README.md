@@ -9,7 +9,7 @@
   Now I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, advised by Prof.Je-hyuk Lee.
 </p></br>
 
-<h3 align="center">🛠 STACK 🛠</h3>
+<h2 align="center">🛠 STACK 🛠</h2>
 <p align="center">
     <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/>
     <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
@@ -28,7 +28,7 @@
     <img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
 </p></br>
 
-<h3 align="center">📫 CONTACT ME 📫</h3>
+<h2 align="center">📫 CONTACT ME 📫</h2>
 <p align="center">
   <a href="https://jayarnim.github.io"><img alt="GitHub" src="https://img.shields.io/badge/profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://velog.io/@jayarnim"><img alt="Velog" src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
