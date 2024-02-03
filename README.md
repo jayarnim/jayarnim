@@ -3,7 +3,7 @@
 
 <p align="left">
   Hi, there! I am dreaming of becoming an expert in recommendation systems.
-  I graduated from the Department of Economics and researched Business Economics in depth, such as Theory of the Consumer, Game Theory, Information Economics and e.t.c.
+  I graduated from the Department of Economics and researched Business Economics in depth, such as Consumer Theory, Game Theory, Information Economics and e.t.c.
   While completing my major, I became interested in consumer’s preferences and choices.
   So, I want to research analyzing personal free expression, defining personal preference, predicting personal choices, and recommending goods or service.
   Now I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, advised by Prof.Je-hyuk Lee.
