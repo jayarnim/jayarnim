@@ -7,12 +7,6 @@ Hi there! I'm dreaming of becoming an expert in recommendation systems. I gradua
 
 <h2 align="center">🛠 STACK 🛠</h2>
 <p align="center">
-    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"/>
-    <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
-    <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>
-</p>
-
-<p align="center">
     <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
