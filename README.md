@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=175&section=header&text=Data%20Scientist&fontSize=45&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
 
-
-<p align="left">
 ### Hi, there 👋
+
 I'm dreaming of becoming an expert in recommendation systems. I graduated from the Department of Economics and deeply researched Business Economics, including Consumer Theory, Game Theory, Information Economics, etc. While completing my major, I became interested in consumers' preferences and choices. So, I want to conduct research on analyzing personal freedom of expression, defining personal preference, predicting personal choices, and recommending goods or services. Now, I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, under the guidance of Prof. Je-hyuk Lee.
-</p></br>
+</br>
 
 <h2 align="center">🛠 STACK 🛠</h2>
 <p align="center">
