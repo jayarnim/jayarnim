@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=175&section=header&text=Data%20Scientist&fontSize=45&fontColor=000000&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20DataScience(jayarnim):&color=FFBF00&fontColor=000000&stroke=FFFFFF&fontSize=55&strokeWidth=0.5&height=200&section=header" width="100%"/>
 
 ### Hi, there 👋
 
 I'm dreaming of becoming an expert in recommendation systems. I graduated from the Department of Economics and deeply researched Business Economics, including Consumer Theory, Game Theory, Information Economics, etc. While completing my major, I became interested in consumers' preferences and choices. So, I want to conduct research on analyzing personal freedom of expression, defining personal preference, predicting personal choices, and recommending goods or services. Now, I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, under the guidance of Prof. Je-hyuk Lee.
+
 </br>
 
 <h2 align="center">🛠 STACK 🛠</h2>
@@ -25,6 +26,10 @@ I'm dreaming of becoming an expert in recommendation systems. I graduated from t
   <a href="https://www.linkedin.com/in/jayarnim/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jayarnim727@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a>
 </p>
+
+</br>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FFBF00&height=200&section=footer" width="100%"/>
 
 <!---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" width="100%"/>
