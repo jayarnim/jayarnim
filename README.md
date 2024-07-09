@@ -21,8 +21,7 @@ I'm dreaming of becoming an expert in recommendation systems. I graduated from t
 
 <h2 align="center">📫 CONTACT ME 📫</h2>
 <p align="center">
-  <a href="https://jayarnim.github.io"><img alt="GitHub" src="https://img.shields.io/badge/profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://velog.io/@jayarnim/series"><img alt="Velog" src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://jayarnim.github.io"><img alt="GitHub" src="https://img.shields.io/badge/techlog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jayarnim/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jayarnim727@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jayarnim727@gmail.com"/></a>
 </p>
