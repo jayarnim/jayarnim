@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20DataScience(JAY):&color=FFBF00&fontColor=000000&stroke=FFFFFF&fontSize=55&strokeWidth=0.5&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20RecSys:&color=FFBF00&fontColor=000000&stroke=FFFFFF&fontSize=55&strokeWidth=0.5&height=200&section=header" width="100%"/>
 
 ### Hi, there 👋
 
