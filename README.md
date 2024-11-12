@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20RecSys:&color=FFBF00&fontColor=000000&stroke=FFFFFF&fontSize=55&strokeWidth=0.5&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=class%20RecSys:&color=00BFFF&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=200&section=header" width="100%"/>
 
 ### Hi, there 👋
 
@@ -33,7 +33,7 @@ Hi there! I'm dreaming of becoming a Data Scientist, **specializing in Recommend
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=FFBF00&height=200&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=3ADF00&height=95&section=footer" width="100%"/>
 
 <!---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" width="100%"/>
