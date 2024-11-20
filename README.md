@@ -19,9 +19,9 @@ Hi there! I'm dreaming of becoming a Data Scientist, **specializing in Recommend
 <h2 align="center">🛠 STACK 🛠</h2>
 
 <p align="center">
-    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/>
-    <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="75" height="75"/>
     <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/>
+    <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="75" height="75"/>
+    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/>
 </p>
 
 <p align="center">
