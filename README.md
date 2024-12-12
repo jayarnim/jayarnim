@@ -12,8 +12,6 @@ Hi there! I'm dreaming of becoming a Data Scientist, **specializing in Recommend
 
 - Bayesian Modeling
 
-- Graph Neural Networks
-
 </br>
 
 <h2 align="center">🛠 STACK 🛠</h2>
@@ -30,7 +28,6 @@ Hi there! I'm dreaming of becoming a Data Scientist, **specializing in Recommend
     <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img alt="pyg" src="https://img.shields.io/badge/pyg-3C2179?style=for-the-badge&logo=pyg&logoColor=white"/>
 </p>
 
 </br>
