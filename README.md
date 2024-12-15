@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&text=DATA%20SCIENTIST&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=250&section=header" width="100%"/>
 
 ### Hi, there 👋
 
