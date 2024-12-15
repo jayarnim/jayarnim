@@ -30,9 +30,11 @@ Hi there! I'm dreaming of becoming a Data Scientist, **specializing in Recommend
     <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
+<!---
 </br>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=3ADF00&height=95&section=footer" width="100%"/>
+--->
 
 <!---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer" width="100%"/>
