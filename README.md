@@ -8,9 +8,15 @@ I'm dreaming of becoming a Data Scientist, **specializing in Recommender System*
 
 <h2 align="center">🔎 RESEARCH INTEREST 🔎</h2>
 
-- Recommender System
+- AI Application
+
+- Data Mining
+
+- Information Uncetainty
 
 - Bayesian Modeling
+
+- Recommender System
 
 </br>
 
