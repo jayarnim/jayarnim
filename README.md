@@ -12,11 +12,7 @@ I'm dreaming of becoming a Data Scientist, **specializing in Recommender System*
 
 - Information Uncetainty
 
-- AI Application
-
 - Recommender System
-
-- Data Mining
 
 - Bayesian Modeling
 
