@@ -16,24 +16,6 @@ I'm dreaming of becoming a Data Scientist, **specializing in Recommender System*
 
 - Bayesian Modeling
 
-</br>
-
-<h2 align="center">🛠 STACK 🛠</h2>
-
-<p align="center">
-    <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/>
-    <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="75" height="75"/>
-    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="75" height="75"/>
-</p>
-
-<p align="center">
-    <img alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-    <img alt="streamlit" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></br>
-    <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
 <!---
 </br>
 
