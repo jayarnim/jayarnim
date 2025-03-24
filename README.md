@@ -10,7 +10,7 @@ I'm dreaming of becoming a Data Scientist, **specializing in Recommender System*
 
 - **Topic**
   - Personalized Service
-  - Information Uncetainty
+  - Information Uncertainty
 
 - **AI Application**
   - [x] Recommender System
