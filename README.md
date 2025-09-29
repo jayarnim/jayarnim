@@ -2,7 +2,7 @@
 
 ### Hi, there 👋
 
-I'm dreaming of becoming a Data Scientist, **specializing in Recommender System**. I graduated from the Department of Economics and deeply researched Business Economics, including Consumer Theory, Game Theory, Information Economics, etc. While completing my major, I became interested in consumers' preferences and choices. So, I want to conduct research on **curating items that match consumer preferences under information uncertainty about their tastes**. Now, I am pursuing a Master's degree in Data Science at The Graduate School of Kookmin University, under the guidance of Prof. Lee, Je-Hyuk. If you want to know more about me, [`click here`](https://sites.google.com/view/jay727/home).
+I’m dreaming of becoming a Data Scientist, specializing in Recommender Systems. While pursuing undergraduate degree in Economics, I became attracted to consumers’ preferences and choices. So, during master's course, I conducted a study on recommender systems, curating items that match consumer preferences under information uncertainty about their tastes. Now, I am broadening my research by applying recommender system techniques to solve matching problem in diverse domains, such as click-through rate prediction, Information Retrieval, and beyond. If you want to know more about me, [`click here`](https://sites.google.com/view/jay727/home).
 
 <!---
 </br>
