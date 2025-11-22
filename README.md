@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00BFFF&text=DATA%20SCIENTIST&fontColor=000000&stroke=00BFFF&strokeWidth=0.5&height=300&section=header&animation=twinkling&desc=Specializing%20in%20Recommender%20System&descAlignY=66&descAlign=61" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=00BFFF&text=DATA%20SCIENTIST&fontColor=000000&stroke=00BFFF&strokeWidth=0.5&height=300&section=header&animation=twinkling&descAlignY=66&descAlign=61" width="100%"/>
 
 ### Hi, there 👋
 
