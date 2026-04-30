@@ -2,7 +2,11 @@
 
 ### Hi, there 👋
 
-I’m dreaming of becoming a Data Scientist, specializing in Recommender Systems. While pursuing undergraduate degree in Economics, I became attracted to consumers’ preferences and choices. So, during master's course, I conducted a study on recommender systems, curating items that match consumer preferences under information uncertainty about their tastes. Now, I am broadening my research by applying recommender system techniques to solve matching problem in diverse domains, such as click-through rate prediction, Information Retrieval, and beyond. If you want to know more about me, [`click here`](https://sites.google.com/view/jay727/home).
+Hello, I am a Data Scientist. My research focuses on addressing epistemic uncertainty that arises in data analysis and AI applications, including time series change point detection, causal inference for policy evaluation, anomaly detection, and recommender systems, primarily using Bayesian methods.
+
+My main research area is recommender systems. I became interested in this field by recognizing the conceptual parallels between my undergraduate training in Economics—particularly in modeling consumer preferences and choices—and personalized algorithms that infer user preferences and recommend items.
+
+Looking ahead, I plan to extend my research into auction theory, which incorporates Bayesian approaches within a game-theoretic framework.
 
 <!---
 </br>
