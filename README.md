@@ -2,7 +2,7 @@
 
 ### Hi, there 👋
 
-Hello, I am a Data Scientist. My research focuses on addressing epistemic uncertainty that arises in data analysis and AI applications, including time series change point detection, causal inference for policy evaluation, anomaly detection, and recommender systems, primarily using Bayesian methods. My main research area is recommender systems. I became interested in this field by recognizing the conceptual parallels between my undergraduate training in Economics—particularly in modeling consumer preferences and choices—and personalized algorithms that infer user preferences and recommend items. Looking ahead, I plan to extend my research into auction theory, which incorporates Bayesian approaches within a game-theoretic framework.
+Hello, I am a Data Scientist. My research focuses on addressing epistemic uncertainty that arises in data analysis, machine learning engineering and AI applications, primarily using Bayesian methods. My main research area is recommender systems. I became interested in this field by recognizing the conceptual parallels between my undergraduate training in Economics—particularly in modeling consumer preferences and choices—and personalized algorithms that infer user preferences and recommend items. Looking ahead, I plan to extend my research into auction theory, which incorporates Bayesian approaches within a game-theoretic framework.
 
 <!---
 </br>
